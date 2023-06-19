@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;600&display=swap');
+
+.wpcf7 form {
+    max-width: 500px;
+    margin: 3rem auto;
+}
+
+.wpcf7 form label {
+    width: 100%;
+}
